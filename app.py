@@ -83,7 +83,7 @@ with st.container():
     tweet = st.text_area(
         "Masukkan teks tweet yang ingin dianalisis:",
         height=120,
-        placeholder="Ketik tweet Anda di sini... (Contoh: I love this day!)",
+        placeholder="dalam bahasa inggris... (Contoh: I love this day!)",
     )
 
     # Tombol prediksi dengan spasi di bawahnya
